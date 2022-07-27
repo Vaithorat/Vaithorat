@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vaithorat
+- 👋 Hi, I’m Vaibhav Thorat
 - 👀 I’m interested in Front End Web Development although I have just started (I wrote my first program on 1 July 2022)
 - 🌱 I’m currently learning HTML,CSS, Javascript
 - 💞️ I’m not currently looking to Collaborate
