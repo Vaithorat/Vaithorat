@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Express.js<br>💬 Ask me about CSS, HTML, Javascript and React.js<br>
+🔭 Working as a Software Development Engineer at a Leading Startup <br>💬 Ask me about CSS, HTML, Javascript, React.js, Expressjs, MongoDB and MySQL<br>
 
 
 ## 🌐 Socials:
